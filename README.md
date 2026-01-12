@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**warpl/warpl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey there ! 
 
-Here are some ideas to get you started:
+I'm [zoe](https://x.com/zoeistabby), also known as ugrx or warpl
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently trying to learn some languages like C++, Javascript, Rust...
+
+
+
+
+
+## 🚀 About Me
+I'm 18, from france in nouvelle-qauitaine to be more specific, i was known for making Nintndo 64 mods but now I'm trying to become a real developer and know a lot of languages.
+
+Currently learning to be a full stack developer.
+
+
+## Feedback
+
+If you have any feedback, please reach out with my discord : @zoeistabby
+
+---
+
+![App Screenshot](https://i.pinimg.com/736x/7e/95/b6/7e95b6d4d801f928b457d4277b67c451.jpg)
+
+
+
