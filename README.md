@@ -3,14 +3,14 @@
 
 I'm [zoe](https://x.com/zoeistabby), also known as ugrx or warpl
 
-Currently trying to learn some languages like C++, Javascript, Rust...
+Currently trying to learn some languages like C++, Javascript, Python...
 
 
 
 
 
 ## 🚀 About Me
-I'm 18, from france in nouvelle-qauitaine to be more specific, i was known for making Nintendo 64 mods but now I'm trying to become a real developer and know a lot of languages. ( MAIN GOAL IS TO LEARN RUST )
+I'm 18, from france in nouvelle-aquitaine to be more specific, i was known for making Nintendo 64 mods but now I'm trying to become a real developer and know a lot of languages. ( MAIN GOAL IS TO LEARN RUST )
 
 Currently learning to be a full stack developer.
 
