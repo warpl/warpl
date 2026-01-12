@@ -20,8 +20,3 @@ Currently learning to be a full stack developer.
 If you have any feedback, please reach out with my discord : @zoeistabby
 
 ---
-
-![App Screenshot](https://i.pinimg.com/736x/7e/95/b6/7e95b6d4d801f928b457d4277b67c451.jpg)
-
-
-
