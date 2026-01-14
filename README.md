@@ -15,8 +15,8 @@ I'm 18, from france in nouvelle-aquitaine to be more specific, i was known for m
 Currently learning to be a full stack developer.
 
 
-## Feedback
+## Contact
 
-If you have any feedback, please reach out with my discord : @zoeistabby
+please reach out with my discord : @zoeistabby
 
 ---
